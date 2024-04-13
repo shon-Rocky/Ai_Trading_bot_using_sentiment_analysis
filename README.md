@@ -45,12 +45,11 @@ python main.py --live
 
 ## Backtesting example
 
-Back test Chart
+### Back test Chart
 
 ![Screenshot (311)](https://github.com/shon-Rocky/GPT-Analyst/assets/140310009/e2d58db8-ebac-4f39-9106-d21f43337ed3)
 
-Strategy compared to SPY
-
+### Strategy compared to SPY
 
 ![image](https://github.com/shon-Rocky/GPT-Analyst/assets/140310009/8c1e1346-6f64-49ad-b889-455580d28034)
 
@@ -66,7 +65,7 @@ The trading strategy is based on the sentiment analysis. If the sentiment is pos
 
 ## Authors
 
-* **Your Name** - *Initial work* - [Your GitHub](https://github.com/username)
+* **Shonmon Rcokey** - *Initial work* - [Your GitHub](https://github.com/shon-Rocky)
 
 ## License
 
@@ -77,5 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Alpaca API for the backtesting and live trading
 * FinBERT for the sentiment analysis
 * LumiBot for the framework
-
-Please replace the placeholders with the actual information. Also, you might want to add more sections depending on the complexity of your project.
