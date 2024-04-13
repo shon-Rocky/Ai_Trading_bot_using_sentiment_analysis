@@ -15,18 +15,23 @@ This is a trading bot built using the Alpaca API for backtesting and live tradin
 
 1. Clone the repository
 ```
-git clone https://github.com/username/trading-bot.git
+https://github.com/shon-Rocky/Ai_Trading_bot_using_sentiment_analysis.git
 ```
-2. Create a virtual environment
+2. Navigate to the project directory:
+
+```
+cd Ai_Trading_bot_using_sentiment_analysis
+```
+3. Create a virtual environment
 ```
 python3 -m venv venv
 source venv/bin/activate
 ```
-3. Install the dependencies
+4. Install the dependencies
 ```
 pip install -r requirements.txt
 ```
-4. Create .env file in directory and set key
+5. Create .env file in directory and set key
 ```
  API_KEY=your_api_key
  API_SECRET=your_api_secret
