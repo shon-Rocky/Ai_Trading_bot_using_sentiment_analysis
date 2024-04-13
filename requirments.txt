@@ -1,0 +1,8 @@
+lumibot
+alpaca_trade_api
+timedelta
+torch
+torchvision
+torchaudio
+--index-url https://download.pytorch.org/whl/cu121
+transformers
