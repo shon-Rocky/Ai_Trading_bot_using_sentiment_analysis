@@ -15,7 +15,7 @@ This is a trading bot built using the Alpaca API for backtesting and live tradin
 
 1. Clone the repository
 ```
-https://github.com/shon-Rocky/Ai_Trading_bot_using_sentiment_analysis.git
+git clone https://github.com/shon-Rocky/Ai_Trading_bot_using_sentiment_analysis.git
 ```
 2. Navigate to the project directory:
 
